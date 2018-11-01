@@ -1,0 +1,9 @@
+npm install react react-dom next @moltin/sdk
+npm install --save nprogress
+usar yarn
+yarn add -E semantic-ui-react //estilização
+yarn add -E react-stripe-checkout
+executar: "yarn dev"
+
+para consultar estilização:	
+	https://react.semantic-ui.com/collections/menu/
